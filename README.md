@@ -64,3 +64,8 @@ EmployeeManagement/
 ## Testing
 
 Run unit tests:
+
+⚠️ Disclaimer
+This project is intended for demonstration and educational purposes only. While it follows professional coding practices using Clean Architecture, it is not designed or tested for direct production use in a live business environment without further customization, security hardening, and compliance checks.
+
+PIYTECH assumes no responsibility for misuse or direct deployment of this solution as-is in any organization or business entity.
